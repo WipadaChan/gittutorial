@@ -1,1 +1,2 @@
 print('Picnic')
+print('Peter')
