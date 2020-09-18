@@ -1,1 +1,2 @@
-print('Latte') fgff
+print('Latte')
+print('Americano')
